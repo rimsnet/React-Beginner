@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has designed for learning 
+
+## Initial Commands
+### `git clone https://github.com/rimsnet/React-Beginner.git`
+### `cd React-Beginner/`
+### `npm install`
+### `npm start`
 
 ## Available Scripts
 
