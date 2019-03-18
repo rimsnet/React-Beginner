@@ -6,6 +6,7 @@ import App from './App'
 import Home from './components/Home'
 import About from './components/About'
 import User from './components/User'
+import ContextSample from './components/ContextSample'
 import * as serviceWorker from './serviceWorker'
 
 
@@ -17,6 +18,7 @@ ReactDOM.render(
             <Route path='/home' component={Home} />
             <Route path='/about' component={About} />
             <Route path='/user/:id' component={User} />
+            <Route path='/contextsample' component={ContextSample}/>
         </Switch>
     </Router>, document.getElementById('root'));
 
